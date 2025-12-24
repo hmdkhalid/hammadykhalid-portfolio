@@ -1,0 +1,108 @@
+{
+  "Header.Item1": "À propos",
+  "Header.Item2": "Expérience",
+  "Header.Item3": "Projets",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "CV",
+  "Header.cvName": "CV_Khalid_Hammady.pdf",
+  "Loading": "Chargement...",
+
+  "Banner.Pretitle": "Bonjour! Je suis",
+  "Banner.Description": "Ingénieur Full Stack et IA avec une expertise dans le développement de <span class='underline'>solutions web/mobile innovantes</span> intégrant l'intelligence artificielle et les architectures microservices. Spécialisé en <span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span>, <span class='underline'>Flutter</span> et modèles d'IA (<span class='underline'>YOLO</span>, Ollama, Computer Vision).",
+  "Banner.ActionBtn": "Me contacter",
+
+  "AboutMe.Title": "À propos de moi",
+  "AboutMe.Paragraphs": [
+    "Ingénieur d'État en Informatique spécialisé en <span class='underline'>développement Full Stack</span> et <span class='underline'>Intelligence Artificielle</span>. Passionné par la création de solutions technologiques qui optimisent les processus métiers et apportent une réelle valeur ajoutée.",
+    "Mon expertise couvre le développement d'applications web et mobile, l'intégration de modèles d'IA pour la détection d'objets (YOLOv8, Computer Vision), et la mise en place d'architectures microservices robustes et évolutives.",
+    "Je m'engage à écrire du code propre, maintenable et scalable en appliquant les meilleures pratiques de développement et les design patterns appropriés.",
+    "Quelques technologies avec lesquelles je travaille incluent (sans s'y limiter) :"
+  ],
+
+  "Experience.Title": "Expérience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Zine Capital ",
+      "Title": "Stagiaire PFE - Développeur Full Stack & IA",
+      "Date": "Mars 2025 - Septembre 2025",
+      "Description": [
+        "Développement d'une application web et mobile intelligente pour l'optimisation de la stratégie de merchandising basée sur l'IA",
+        "Gestion intelligente des visites terrain avec suivi, historique et contrôle de présence",
+        "Application mobile pour la saisie des inventaires avec gestion des dates de péremption",
+        "Détection automatique des produits en rayon via YOLOv8 avec comparaison aux planogrammes",
+        "Détection automatique des prix via OCR avec contrôle et comparaison aux références",
+        "Déploiement sécurisé de l'application sur serveur Windows",
+        "Technologies: Spring Boot, Angular, Flutter, YOLOv8, OCR, MongoDB"
+      ]
+    },
+    {
+      "Tab": "Marsa Maroc",
+      "Title": "Stagiaire PFA - Développeur Full Stack & IA",
+      "Date": "Juillet 2024 - Septembre 2024",
+      "Description": [
+        "Développement d'une application de détection de véhicules (voitures, bus, motos, camions)",
+        "Utilisation de Python, YOLO et OpenCV pour la détection et le traitement d'images et vidéo",
+        "Conception et réalisation d'une application web de gestion de surveillance",
+        "Implémentation d'API REST entre Spring Boot, Python et Angular",
+        "Gestion des données avec MongoDB",
+        "Technologies: Python, YOLO, OpenCV, Spring Boot, Angular, MongoDB"
+      ]
+    },
+    {
+      "Tab": "INETUM",
+      "Title": "Stagiaire PFA - Développeur Full Stack",
+      "Date": "Juillet 2023 - Août 2023",
+      "Description": [
+        "Développement d'une application de gestion de stocks avec suivi en temps réel",
+        "Gestion des entrées, sorties et inventaires automatiques pour traçabilité",
+        "Création d'une solution ergonomique, fiable et sécurisée",
+        "Technologies: Symfony, PHPMyAdmin, HTML, CSS, JavaScript, Bootstrap"
+      ]
+    },
+    {
+      "Tab": "ORMVAO",
+      "Title": "Stagiaire PFE - Développeur",
+      "Date": "Avril 2022 - Mai 2022",
+      "Description": [
+        "Conception et développement d'une application de gestion de factures (ONEE, IAM)",
+        "Gestion des vignettes de stock avec suivi des factures et paiements",
+        "Automatisation des processus de gestion de stocks",
+        "Technologies: C#, SQL Server, HTML, CSS, JavaScript, Bootstrap"
+      ]
+    }
+
+  ],
+
+  "FeatureProjects.Title": "Mes projets",
+  "FeatureProjects.Label": "Projet Destacado",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Application Merchandising IA - Zine Capital",
+      "Description": "Application web et mobile intelligente pour l'optimisation du merchandising avec <span class='underline'>détection automatique de produits via YOLOv8</span>, <span class='underline'>OCR pour la détection de prix</span>, gestion des visites terrain et <span class='underline'>inventaires en temps réel</span>. Architecture microservices complète avec <span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span> et <span class='underline'>Flutter</span>.",
+      "imgs": [
+        "assets/images/zine-capital/capture1.png",
+        "assets/images/zine-capital/capture2.png",
+        "assets/images/zine-capital/capture3.png",
+        "assets/images/zine-capital/capture6.png",
+        "assets/images/zine-capital/capture7.png"
+      ],
+      "Technologies": ["Spring Boot", "Angular", "Flutter", "YOLOv8", "OCR", "MongoDB"]
+    },
+    {
+      "Title": "Détection ISO Conteneurs - Marsa Maroc",
+      "Description": "Application de détection d'ISO de conteneurs en temps réel utilisant <span class='underline'>YOLOv8</span> et <span class='underline'>OpenCV</span>. Tableau de bord interactif avec <span class='underline'>statistiques en temps réel</span>, historique complet et <span class='underline'>graphiques dynamiques</span>. API REST pour communication frontend/backend.",
+      "imgs": [
+        "assets/images/mercaa/1.jpg",
+        "assets/images/mercaa/2.jpg",
+        "assets/images/mercaa/3.jpg",
+        "assets/images/mercaa/4.jpg",
+        "assets/images/mercaa/5.jpg"
+      ],
+      "Technologies": ["Python","Spring Boot ", "YOLOv8", "OpenCV", "Angular", "MySQL"]
+    }
+  ],
+  "Contact.Pretitle": "Et maintenant?",
+  "Contact.Title": "Contactez-moi!",
+  "Contact.Content": "Je serai ravi de recevoir votre message si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi et je vous répondrai dès que possible.",
+  "Contact.Btn": "Me contacter"
+}

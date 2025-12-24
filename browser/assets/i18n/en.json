@@ -1,0 +1,106 @@
+{
+  "Header.Item1": "About",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Khalid_Hammady.pdf",
+  "Loading": "Loading...",
+
+  "Banner.Pretitle": "Hello! I'm",
+  "Banner.Description": "Full Stack and AI Engineer with expertise in developing <span class='underline'>innovative web/mobile solutions</span> integrating artificial intelligence and microservices architectures. Specialized in <span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span>, <span class='underline'>Flutter</span> and AI models (<span class='underline'>YOLO</span>, Ollama, Computer Vision).",
+  "Banner.ActionBtn": "Contact me",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "Computer Science Engineer specialized in <span class='underline'>Full Stack development</span> and <span class='underline'>Artificial Intelligence</span>. Passionate about creating technological solutions that optimize business processes and provide real added value.",
+    "My expertise covers web and mobile application development, AI model integration for object detection (YOLOv8, Computer Vision), and implementation of robust and scalable microservices architectures.",
+    "I am committed to writing clean, maintainable and scalable code by applying best development practices and appropriate design patterns.",
+    "Some technologies I work with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Zine Capital",
+      "Title": "Final Year Intern - Full Stack & AI Developer",
+      "Date": "March 2025 - September 2025",
+      "Description": [
+        "Development of an intelligent web and mobile application for AI-based merchandising strategy optimization",
+        "Smart field visit management with tracking, history and attendance control",
+        "Mobile application for inventory entry with expiration date management",
+        "Automatic product detection on shelves via YOLOv8 with planogram comparison",
+        "Automatic price detection via OCR with control and reference comparison",
+        "Secure deployment of application on Windows server",
+        "Technologies: Spring Boot, Angular, Flutter, YOLOv8, OCR, MongoDB"
+      ]
+    },
+    {
+      "Tab": "Marsa Maroc",
+      "Title": "Intern - Full Stack & AI Developer",
+      "Date": "July 2024 - September 2024",
+      "Description": [
+        "Development of a vehicle detection application (cars, buses, motorcycles, trucks)",
+        "Use of Python, YOLO and OpenCV for image and video detection and processing",
+        "Design and implementation of a surveillance management web application",
+        "REST API implementation between Spring Boot, Python and Angular",
+        "Data management with MongoDB",
+        "Technologies: Python, YOLO, OpenCV, Spring Boot, Angular, MongoDB"
+      ]
+    },
+    {
+      "Tab": "INETUM",
+      "Title": "Intern - Full Stack Developer",
+      "Date": "July 2023 - August 2023",
+      "Description": [
+        "Development of an inventory management application with real-time tracking",
+        "Management of entries, exits and automatic inventories for traceability",
+        "Creation of an ergonomic, reliable and secure solution",
+        "Technologies: Symfony, PHPMyAdmin, HTML, CSS, JavaScript, Bootstrap"
+      ]
+    },
+    {
+      "Tab": "ORMVAO",
+      "Title": "Final Year Intern - Developer",
+      "Date": "April 2022 - May 2022",
+      "Description": [
+        "Design and development of an invoice management application (ONEE, IAM)",
+        "Stock label management with invoice and payment tracking",
+        "Automation of inventory management processes",
+        "Technologies: C#, SQL Server, HTML, CSS, JavaScript, Bootstrap"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "AI Merchandising Application - Zine Capital",
+      "Description": "Intelligent web and mobile application for merchandising optimization with <span class='underline'>automatic product detection via YOLOv8</span>, <span class='underline'>OCR for price detection</span>, field visit management and <span class='underline'>real-time inventories</span>. Complete microservices architecture with <span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span> and <span class='underline'>Flutter</span>.",
+      "imgs": [
+        "assets/images/zine-capital/capture1.png",
+        "assets/images/zine-capital/capture2.png",
+        "assets/images/zine-capital/capture3.png",
+        "assets/images/zine-capital/capture6.png",
+        "assets/images/zine-capital/capture7.png"],
+      "Technologies": ["Spring Boot", "Angular", "Flutter", "YOLOv8", "OCR", "MongoDB"]
+    },
+    {
+      "Title": "ISO Container Detection - Marsa Maroc",
+      "Description": "Real-time ISO container detection application using <span class='underline'>YOLOv8</span> and <span class='underline'>OpenCV</span>. Interactive dashboard with <span class='underline'>real-time statistics</span>, complete history and <span class='underline'>dynamic charts</span>. REST API for frontend/backend communication.",
+      "imgs": [
+        "assets/images/mercaa/1.jpg",
+        "assets/images/mercaa/2.jpg",
+        "assets/images/mercaa/3.jpg",
+        "assets/images/mercaa/4.jpg",
+        "assets/images/mercaa/5.jpg"
+      ],
+      "Technologies": ["Python","Spring Boot ", "YOLOv8", "OpenCV", "Angular", "MySQL"]
+    }
+  ],
+  "Contact.Pretitle": "What's next?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be happy to receive your message if you want to discuss new opportunities. Write to me and I will reply as soon as possible.",
+  "Contact.Btn": "Contact me"
+}
